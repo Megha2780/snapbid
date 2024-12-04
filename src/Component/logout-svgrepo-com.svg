@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="logout-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#6a16f9" />
+            <stop offset="100%" stop-color="#ff0076" />
+        </linearGradient>
+    </defs>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M6 3C4.89543 3 4 3.89543 4 5V19C4 20.1046 4.89543 21 6 21H14C15.1046 21 16 20.1046 16 19V17H14V19H6V5H14V7H16V5C16 3.89543 15.1046 3 14 3H6ZM18 12H10V11H18V12ZM18 15H10V14H18V15Z" fill="url(#logout-gradient)"/>
+</svg>
